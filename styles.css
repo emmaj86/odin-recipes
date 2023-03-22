@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to right, green , white, red);
+    margin: 10px;
+}
+
+#Ingredients ul li{
+    list-style-type: square;
+}
+
+img {
+    justify-content: center;
+    width: fit-content;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+  }
+  
+nav a {
+    
+    padding: 8px;
+    background-image: linear-gradient(to right, green , white, red);
+    text-decoration:  none;
+    color: black;
+    font-size: large;
+  }
